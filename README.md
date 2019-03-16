@@ -3,6 +3,8 @@ This is a simple application that implements a simple "k-nearest neighbours" alg
 
 How To Use:
 
+0.You can also use training and test files from project
+
 1.Compile Main class with next args:
   1.Path to file with training data
   2.Path to file with test data
